@@ -1,16 +1,31 @@
-### Hi there 👋
+### Oii ! Eu sou o Miguel 
 
-<!--
-**Miguel-Rodrigues-de-Melo/Miguel-Rodrigues-de-Melo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Eu estou aprendendo Html5 e Css3
+- 👯 Eu procuro coloborar em todos os tipos de projetos
+- 📫 Como contatar-me: mmelo8176@gmail.com
+- 😄 Pronomes: Ele/dele
+- ⚡ Fato divertido: Eu gosto tanto de back-end quanto de front-end
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/Miguel-Rodrigues-de-Melo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miguel-Rodrigues-de-Melo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Rodrigues-de-Melo&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+##
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Miguel-Firefox" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" />
+</div>
+  
+##
+<div>
+  <a href="https://www.instagram.com/miguelrodriguesdemelo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mmelo8176@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+  
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
