@@ -1,4 +1,4 @@
-### Oii ! Eu sou o Miguel 
+### Oii! Eu sou o Miguel 
 
 - 🌱 Eu estou aprendendo Html5 e Css3
 - 👯 Eu procuro coloborar em todos os tipos de projetos
